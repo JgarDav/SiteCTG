@@ -10,7 +10,7 @@
       "enabled": true,
       "fontFamily": "Verdana, sans-serif",
       "useHtml": true,
-      "format": "<h5 style=\"font-size:14px; margin: 0.25rem 0;\">{%name}</h5><h6 style=\"font-size:14px; font-weight:400; margin: 0.2rem 0;\">Activadas: <b>{%value}{groupsSeparator:\\,}</b></h6><h6 style=\"font-size:14px; font-weight:400; margin: 0.2rem 0;\">Totales: <b>{%total_deaths}{groupsSeparator:\\,}</b></h6>Fecha: <b>{%date}{groupsSeparator:\\,}</b></h6>"
+      "format": "<h5 style=\"font-size:14px; margin: 0.25rem 0;\">{%name}</h5><h6 style=\"font-size:14px; font-weight:400; margin: 0.2rem 0;\">Activadas: <b>{%value}{groupsSeparator:\\,}</b></h6><h6 style=\"font-size:14px; font-weight:400; margin: 0.2rem 0;\">Totales: <b>{%total_deaths}{groupsSeparator:\\,}</b>Fecha: <b>{%date}{groupsSeparator:\\,}</b></h6>"
     },
     "credits": {
       "enabled": false
@@ -31,18 +31,18 @@
           "children": [
             {
               "treeDataItemData": {
-                "name": "Asia",
-                "id": "Asia",
+                "name": "Enero",
+                "id": "Enero",
                 "fill": "#63c6c1",
-                "total_deaths": "280486"
+                "total_deaths": "3"
               },
               "children": [
                 {
                   "treeDataItemData": {
-                    "iso_code": "AFG",
-                    "continent": "Asia",
-                    "name": "Afghanistan",
-                    "date": "24-11-20",
+                    "iso_code": "BanRep",
+                    "continent": "Enero",
+                    "name": "Canal Banco Republica",
+                    "date": "24-01-23",
                     "value": "45017",
                     "new_cases": "246",
                     "total_deaths": "1712",

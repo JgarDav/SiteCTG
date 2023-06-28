@@ -2,13 +2,13 @@
   {
     "name": "Contingencia",
     "fill": "#64b5f6",
-    "total_ctg": "100000",
+    "total_deaths": "100000",
     "children": [
       {
         "name": "Enero",
         "id": "Enero",
         "fill": "#7C79A2",
-        "total_ctg": "3",
+        "total_deaths": "3",
         "children": [
           {
             "iso_code": "BancoRep",

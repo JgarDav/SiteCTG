@@ -10,7 +10,7 @@
       "enabled": true,
       "fontFamily": "Verdana, sans-serif",
       "useHtml": true,
-      "format": "<h5 style=\"font-size:14px; margin: 0.25rem 0;\">{%name}</h5><h6 style=\"font-size:14px; font-weight:400; margin: 0.2rem 0;\">Activadas: <b>{%value}{groupsSeparator:\\,}</b></h6><h6 style=\"font-size:14px; font-weight:400; margin: 0.2rem 0;\">Totales: <b>{%total_deaths}{groupsSeparator:\\,}</b>Fecha: <b>{%date}{groupsSeparator:\\,}</b></h6>"
+      "format": "<h5 style=\"font-size:14px; margin: 0.25rem 0;\">{%name}</h5><h6 style=\"font-size:14px; font-weight:400; margin: 0.2rem 0;\">Activadas: <b>{%value}{groupsSeparator:\\,}</b></h6><h6 style=\"font-size:14px; font-weight:400; margin: 0.2rem 0;\">Totales: <b>{%total_deaths}{groupsSeparator:\\,}</b></h6>"
     },
     "credits": {
       "enabled": false
